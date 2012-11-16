@@ -1,0 +1,16 @@
+TypeScriptCards
+==========
+
+A simple card game engine written as an exploration of TypeScript
+
+Requires TypeScript installation and configuration. You can get TypeScript at: http://www.microsoft.com/en-us/download/details.aspx?id=34790
+
+Blog post introducing concepts, code: http://www.t3rse.com/post/2012/10/31/TypeScript-Up-and-Running.aspx
+
+Please all feedback welcome, thanks!
+
+---
+
+Twitter: @t3rse
+
+Website URL: http://www.t3rse.com
